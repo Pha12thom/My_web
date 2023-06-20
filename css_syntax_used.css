@@ -1,0 +1,89 @@
+#mainform
+body {
+    color: azure;
+}
+
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a:link {
+    color: red;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: green;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: hotpink;
+}
+
+
+/* selected link */
+
+a:active {
+    color: blue;
+}
+
+.red {
+    color: white;
+}
+
+
+#links
+p {
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: darkslateblue;
+}
+marquee {
+    color: cornflowerblue;
+}
+table{
+    text-decoration: wavy;
+    text-size-adjust: 10;
+    text-align: left;
+    background-color: indigo;
+    text-emphasis-color: white;
+    text-decoration-color: aliceblue;
+
+}
+a:link {
+    color: red;
+  }
+
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  .red {
+    color:white;
+  }
+
+
