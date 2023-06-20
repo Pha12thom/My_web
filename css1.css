@@ -1,0 +1,94 @@
+body { 
+   color: white; 
+  } 
+input[type="text""radio"]{
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 3px;
+}
+input,
+select {
+  /* Set the color for all inputs and select elements */
+  color: #ff0000;
+  
+  /* Set the background color for all inputs and select elements */
+  background-color: #f5f5f5;
+  
+  /* Add any additional styling as needed */
+  /* ... */
+}
+
+a:link {
+  color: greenyellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#css2. syntax
+
+body {
+  color: white;
+}
+
+h1 {
+  color: yellow;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background: url(g.png);
+  background-size: cover;
+}
+a:link {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+# 1.css
+
+alert-text {
+  color: red;
+}
+
